@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
 public class FastScanner {
+	
 	Scanner sc = new Scanner(System.in);
+	
 	public int nextInt() {
 		String a = "";
 		int b = 0;
